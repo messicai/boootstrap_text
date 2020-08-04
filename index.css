@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 50px;
+    background-color: #222222;
+}
+
+.banner {
+    height: 657px;
+    background-color: #2b80d9;
+}
+
+
+/* .banner-img img {
+    width: 100%;
+} */
+
+.footer {
+    height: 641px;
+    background-color: #fbfaf7;
+}
+
+.foot {
+    padding-top: 103px;
+}
+
+h1.title {
+    color: #0078d7;
+    margin-bottom: 38px;
+}
+
+h2.yes {
+    color: #9e9e9d;
+    font-size: 30px;
+}
+
+.infomation {
+    height: 123px;
+}
+
+.infomation h3 {
+    font-size: 19px;
+    color: #333333;
+}
+
+.infomation p {
+    font-size: 14px;
+    color: #666666;
+}
+
+.infomation img {
+    float: left;
+    margin-right: 5px;
+}
+
+.black {
+    background-color: #222222!important;
+    /* border-color: #222!important; */
+    border: 0!important;
+}
+
+.brands img {
+    margin-top: 5px;
+}
